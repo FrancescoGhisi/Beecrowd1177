@@ -8,7 +8,7 @@ public class Beecrowd1177 {
         int T = input.nextInt();
         input.close();
         int valor = 0;
-        int [] Numero = new int[9];
+        int [] Numero = new int[1000];
 
         for(int i = 0; i < Numero.length; i++){
             if (valor < T) {
